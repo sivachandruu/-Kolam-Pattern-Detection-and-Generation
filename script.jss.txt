@@ -1,0 +1,4 @@
+function generate() {
+    const output = document.getElementById("output");
+    output.innerHTML = "Kolam Math Pattern Generated!";
+}
